@@ -1,81 +1,70 @@
-<<<<<<< HEAD
-/* .categoryName a{
- justify-content: space-around;
-} */
-=======
-#navbar, #blueFooter{
+.blueFooter{
   background-color: #007db8;
-  }
-#greyFooter{
+}
+.greyFooter{
   background-color: #eeeeee;
 }
-  #navLink, #blueFooter{
+.blueFooter{
   color: white;
-  }
-  #blueFooter{
-    font-size: 0.8rem;
-  }
-
- #navLink :hover{
-  color: grey;
-  }
-
-
-  header{
-    background-color: #007db8;
-  }
-  ::placeholder{
-    font-size: 0.6rem;
-  }
-  a{
-    color: white;
-    text-decoration: none;
-  }
-  #dropdownSearch{
-    text-decoration: none;
-  }
-  #searchButton{
-    background-color: #007db8;
-  }
-  #dropdown:hover #dropDownMenu{
-    display:block;
-  }
-  #dropright:hover #dropMenuRight{
-    display:block;
-  }
-  .dropdown-menu{
-    margin-top: 0;
-    border: none;
-    border-radius: 0;
-  }
-  .dropdown-item{
-    color: #007db8;
-    background-color: white;
-  }
-  .dropdown-item:hover{
-    background-color: #77b1d0;
-    color: #007db8;
-  }
-  #buttonDrop{
-     border: none;
-     border-radius: 0;
-     color: white;
-  }
-  #buttonDrop:hover{
-    color: #007db8;
-    background-color: white;
-    border: none;
-  }
-  #dropRightButton{
-    text-align: left;
-    color: #007db8;
-    border: none;
-    padding-left: 1.5rem;
-  }
-  #dropRightButton:hover{
-    background-color: #77b1d0;
-    color: #007db8;
-  }
+}
+.blueFooter{
+  font-size: 0.8rem;
+}
+header{
+  background-color: #007db8;
+}
+::placeholder{
+  font-size: 0.6rem;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+#dropdownSearch{
+  text-decoration: none;
+}
+.searchButton{
+  background-color: #007db8;
+}
+.dropdownBar:hover .dropDownMenu{
+  display:block;
+}
+.dropright:hover .dropMenuRight{
+  display:block;
+}
+.dropdown-menu{
+  margin-top: 0;
+  border: none;
+  border-radius: 0;
+}
+.dropdown-item{
+  color: #007db8;
+  background-color: white;
+}
+.dropdown-item:hover{
+  background-color: #77b1d0;
+  color: #007db8;
+}
+.buttonDrop{
+  border: none;
+  border-radius: 0;
+  color: white;
+}
+.buttonDrop:hover{
+  color: #007db8;
+  background-color: white;
+  border: none;
+}
+.dropRightButton{
+  text-align: left;
+  color: #007db8;
+  border: none;
+  padding-left: 1.5rem;
+}
+.dropRightButton:hover{
+  background-color: #77b1d0;
+  color: #007db8;
+}
 .carousel-indicators li{
   text-indent:0;
   width: 200%;
@@ -86,14 +75,14 @@
   margin: 0 auto;
   text-align: center;
 }
-#card-img-overlay{
+.cardOverlay1{
   width: 100%;
   height: 10rem;
   background-color: white;
   position: absolute;
   top: 7.5rem;
 }
-#card-img-overlay2{
+.cardOverlay2{
   width: 30rem;
   height: 16rem;
   background-color: white;
@@ -123,4 +112,3 @@
   background-color: white;
   color: #007db8;
 }
->>>>>>> 9a880d1d0980e99548b27ab7b3a3eb01875cb409
